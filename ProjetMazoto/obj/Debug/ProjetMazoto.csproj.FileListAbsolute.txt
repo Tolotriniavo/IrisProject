@@ -1,0 +1,251 @@
+c:\users\chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.exe.config
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.dll.config
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.exe
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.pdb
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Controls.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Genetic.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.Core.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Neuro.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Statistics.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\EPPlus.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ZedGraph.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Controls.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Genetic.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.Core.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Neuro.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Statistics.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\EPPlus.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.pdb
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ZedGraph.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csprojResolveAssemblyReference.cache
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.Properties.Resources.resources
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.GenerateResource.Cache
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.exe
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.pdb
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Chad\documents\visual studio 2015\Projects\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.Form1.resources
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.dll.config
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.exe.config
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.exe
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.pdb
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Controls.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Genetic.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.MachineLearning.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.Core.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Neuro.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Statistics.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\EPPlus.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ZedGraph.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Controls.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Genetic.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.MachineLearning.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.Core.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Neuro.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Statistics.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\EPPlus.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.pdb
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ZedGraph.xml
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\de\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\es\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\fr\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\hu\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\it\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ja\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\pt\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\ru\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\sk\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\sv\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\tr\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csprojAssemblyReference.cache
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.Properties.Resources.resources
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.Form1.resources
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.GenerateResource.cache
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.CoreCompileInputs.cache
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.CopyComplete
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.exe
+E:\mazoto\projet\projet final\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.pdb
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.exe.config
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.exe
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.pdb
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.dll.config
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.exe
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.pdb
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Controls.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Genetic.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.MachineLearning.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.Core.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Neuro.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Statistics.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\EPPlus.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ZedGraph.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Controls.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Genetic.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.MachineLearning.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.Core.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Neuro.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Statistics.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\EPPlus.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.pdb
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ZedGraph.xml
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csprojResolveAssemblyReference.cache
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.Properties.Resources.resources
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.Form1.resources
+C:\Users\One\Downloads\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.GenerateResource.Cache
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.dll.config
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.exe.config
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.exe
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.pdb
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Controls.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Genetic.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.MachineLearning.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.Core.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Neuro.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Statistics.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\EPPlus.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ZedGraph.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Controls.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Genetic.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.MachineLearning.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.Core.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Neuro.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Statistics.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\EPPlus.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.pdb
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ZedGraph.xml
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\de\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\es\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\fr\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\hu\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\it\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ja\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\pt\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ru\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\sk\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\sv\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\tr\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csprojAssemblyReference.cache
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.Properties.Resources.resources
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.Form1.resources
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.GenerateResource.cache
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.CoreCompileInputs.cache
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.CopyComplete
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.exe
+E:\mazoto\projet\projet afa\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.pdb
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.dll.config
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.exe.config
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.exe
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ProjetMazoto.pdb
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Controls.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Genetic.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.MachineLearning.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.Core.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Neuro.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Statistics.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\EPPlus.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ZedGraph.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Controls.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Genetic.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.MachineLearning.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Math.Core.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Neuro.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\Accord.Statistics.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\EPPlus.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.pdb
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ExcelDataReader.DataSet.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ZedGraph.xml
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\de\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\es\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\fr\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\hu\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\it\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ja\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\pt\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\ru\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\sk\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\sv\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\tr\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csprojAssemblyReference.cache
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.Properties.Resources.resources
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.Form1.resources
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.GenerateResource.cache
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.CoreCompileInputs.cache
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.csproj.CopyComplete
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.exe
+E:\mazoto\projet\projet final v2\ProjetMazoto v2\ProjetMazoto\ProjetMazoto\obj\Debug\ProjetMazoto.pdb
